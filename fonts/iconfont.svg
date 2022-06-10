@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>mxiqi.com</metadata>
+<defs>
+  <font id="iconfont" horiz-adv-x="1000">
+    <font-face font-family="iconfont"
+      units-per-em="1000" ascent="1000"
+      descent="0"
+      font-weight="1000" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="search"
+      unicode="&#xEA01;"
+      horiz-adv-x="1000" d="M254.8552140562513 391.2143413559156A269.2307692307693 269.2307692307693 0 0 1 635.6050193105461 771.9641466102104A269.2307692307693 269.2307692307693 0 0 1 254.8552140562513 391.2143413559156M649.2032266410565 377.6161340254052L676.3996413020777 377.6161340254052L824.0006525473705 231.1607064763125L796.8042378863495 231.1607064763125z" />
+  </font>
+</defs>
+</svg>
