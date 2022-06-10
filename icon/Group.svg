@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="31px" viewBox="0 0 37 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>扫一扫 copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="1-首页-copy2" transform="translate(-35.000000, -68.000000)" stroke="#CF5735" stroke-width="2">
+            <g id="扫一扫-copy" transform="translate(36.000000, 69.000000)">
+                <line x1="0" y1="12.4444444" x2="34.6422526" y2="12.4444444" id="Path-19"></line>
+                <line x1="0" y1="0.777777778" x2="34.6422526" y2="0.777777778" id="Path-19-Copy"></line>
+                <line x1="0" y1="24.1111111" x2="20.2222222" y2="24.1111111" id="Path-19-Copy-2"></line>
+                <g id="Group-38" transform="translate(24.888889, 19.444444)">
+                    <line x1="0.411295573" y1="4.66005666" x2="9.74462891" y2="4.66005666" id="Path-2"></line>
+                    <line x1="5.07796224" y1="0" x2="5.07796224" y2="9.32011331" id="Path-2-Copy"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

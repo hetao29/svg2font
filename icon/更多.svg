@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>add</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="15-实时专场-主拍-copy-4" transform="translate(-668.000000, -1387.000000)" stroke="#424242" stroke-width="2">
+            <g id="Group-16" transform="translate(0.000000, 1361.000000)">
+                <g id="add" transform="translate(669.000000, 27.000000)">
+                    <circle id="Oval" cx="22" cy="22" r="22"></circle>
+                    <line x1="10" y1="22" x2="34" y2="22" id="Path-2" stroke-linecap="round"></line>
+                    <line x1="22" y1="10" x2="22" y2="34" id="Path-2-Copy" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

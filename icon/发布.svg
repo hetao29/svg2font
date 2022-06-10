@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>add</title>
+    <defs>
+        <filter x="-11.1%" y="-64.2%" width="122.3%" height="231.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-11.5%" y="-66.4%" width="122.9%" height="235.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="20" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.469852131   0 0 0 0 0.729384852   0 0 0 0 0.772640306  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="1-首页-copy2" transform="translate(-289.000000, -5075.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="标签栏" transform="translate(0.000000, 5016.000000)">
+                <g id="Group-12" filter="url(#filter-1)" transform="translate(0.000000, 78.000000)">
+                    <g filter="url(#filter-2)" id="Group-13">
+                        <g transform="translate(328.000000, 20.000000)">
+                            <g id="add" transform="translate(33.058442, 33.058442)">
+                                <line x1="0" y1="14.7272727" x2="29.4545455" y2="14.7272727" id="Path-2"></line>
+                                <line x1="14.7272727" y1="0" x2="14.7272727" y2="29.4545455" id="Path-2-Copy"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
