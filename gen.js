@@ -4,16 +4,17 @@ const path = require('path');
 svgtofont({
 	src: path.resolve(process.cwd(), 'icon_fixed'), // svg path
 	dist: path.resolve(process.cwd(), 'fonts'), // output path
-	fontName: 'iconfont', // font name
+	fontName: 'iconfonts', // font name
 	emptyDist: true,
 	startUnicode: 0xea01, // un
 	css: {
-		fileName: "iconfont.css"
+		fileName: "iconfonts.css"
 	},
-	useNameAsUnicode: false,
+	useNameAsUnicode: true,
 	svgicons2svgfont: {
 		normalize: true,
 		centerHorizontally: true,
+		fixedWidth:true,
 		fontHeight: 1000,
 		fontWeight: 1000,
 		metadata: "mxiqi.com"
