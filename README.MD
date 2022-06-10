@@ -2,16 +2,16 @@
 
 ## 使用方法
 
-1. 在本地建立 font 和 icon 2个目录
+1. 在本地建立 fonts 和 icon 两个目录
 2. 把Svg文件复制到icon里这个目录
 3. 执行如下命令
 ```bash
 make gen
 ```
 
-## 支持
+## 依赖
 
-1. 采用 docker 和 svgtofont 工具
+采用 docker 命令，本地需要安装docker
 
 ## 连接
 
